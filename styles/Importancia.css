@@ -17,7 +17,7 @@
     font-size: var(--tamanho-fonte-titulo);
     font-family: var(--fonte-secundario);
     font-weight: 700;
-
+    margin-left: 4rem;
 }
 
 .importancia-textos-texto{
