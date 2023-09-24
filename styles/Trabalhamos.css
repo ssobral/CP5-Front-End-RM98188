@@ -45,34 +45,5 @@
     border: 0.2rem solid var(--verde)
 }
 
-@media screen and (min-width: 1024px) {
-    .como_trabalhamos-titulo{
-        margin-left: 7.5rem;
-    }
-}
 
-@media screen and (max-width: 1024px) {
-    .como_trabalhamos-titulo{
-        text-align: center;
-    }
-    .como_trabalhamos-enfeite{
-        width: 270px;
-    }
-    .como_trabalhamos-button{
-        padding: 0.6rem 3.3rem;
-    }
-}
-
-@media screen and (max-width: 720px){
-    .como_trabalhamos-enfeite{
-        display: none;
-    }
-    .como_trabalhamos-botoes{
-        justify-content: center;
-        margin: 0 2rem 2rem 2rem;
-    }
-    .como_trabalhamos-button{
-        padding: 0.6rem 2.3rem;
-    }
-}
 
