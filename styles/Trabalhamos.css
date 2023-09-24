@@ -38,6 +38,7 @@
     font-family: var(--fonte-secundario);
     border: 0.2rem solid var(--verde);
     border-radius: 10px;
+    text-decoration: none;
 }
 
 .como_trabalhamos-button:hover{
